@@ -66,6 +66,6 @@ Follow these basic steps to run and view this front-end landing page instantly o
 ### 1. Clone the Workspace Endpoint
 
 ```bash
-git clone [https://github.com/amirsohail100/your-amazon-repo-name.git](https://github.com/amirsohail100/your-amazon-repo-name.git)
-cd your-amazon-repo-name
+git clone [https://github.com/amirsohail100/Amazon-clone.git](https://github.com/amirsohail100/Amazon-clone.git)
+cd Amazon-clone
 ```
