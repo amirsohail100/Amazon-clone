@@ -22,21 +22,21 @@ Below is the step-by-step visual breakthrough of the cloned interactive landing 
 ### 1. Header & Hero Section (Top View)
 
 <div align="center">
-  <img src="./ui_top.png" alt="Amazon Clone - Top Section" width="85%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border: 1px solid #30363d;">
+  <img src="assets/ui_top.png" alt="Amazon Clone - Top Section" width="85%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border: 1px solid #30363d;">
   <p><i>Navigation Header Bar, Delivery Matrix, Search Ingestion Engine, and Hero Product Slides</i></p>
 </div>
 
 ### 2. Product Grid Layouts (Middle View)
 
 <div align="center">
-  <img src="./ui_middle.png" alt="Amazon Clone - Middle Section" width="85%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border: 1px solid #30363d;">
+  <img src="assets/ui_middle.png" alt="Amazon Clone - Middle Section" width="85%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border: 1px solid #30363d;">
   <p><i>Multi-Column Product Grid Cards displaying diverse categorical offers</i></p>
 </div>
 
 ### 3. Navigation Links & Footer (Bottom View)
 
 <div align="center">
-  <img src="./ui_bottom.png" alt="Amazon Clone - Bottom Section" width="85%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border: 1px solid #30363d;">
+  <img src="assets/ui_bottom.png" alt="Amazon Clone - Bottom Section" width="85%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border: 1px solid #30363d;">
   <p><i>Back to Top mechanics and fully semantic structural Directory Links + Bottom Footer</i></p>
 </div>
 
