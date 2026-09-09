@@ -22,7 +22,7 @@
 
 .logo {
     background-size: cover;
-    background-image: url("aws-logo.png");
+    background-image: url("assets/aws-logo.png");
     height: 50px;
     width: 150px;
 }
@@ -136,7 +136,7 @@ span {
 }
 
 .hero-section {
-    background-image: url("home.jpg");
+    background-image: url("assets/home.jpg");
     background-size: cover;
     height: 500px;
     display: flex;
@@ -235,7 +235,7 @@ ul a {
 }
 
 .logo1 {
-    background-image: url("aws-logo.png");
+    background-image: url("assets/aws-logo.png");
     background-size: cover;
     height: 50px;
     width: 150px;
